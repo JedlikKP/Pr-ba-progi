@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 namespace próba_megint
 {
     class Program
-    {
-        static void Main(string[] args)
-        {
+    {        
+        
             static void Main(string[] args)
             {
                 Random gép = new Random();
@@ -44,7 +43,6 @@ namespace próba_megint
                     }
 
                 }
-            }
-        }
+            }        
     }
 }
